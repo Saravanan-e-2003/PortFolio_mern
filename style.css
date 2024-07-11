@@ -16,7 +16,9 @@
 } */
 
 :root{
-    --bgcolor: rgb(67, 213, 167);
+    /* --bgcolor: rgb(67, 213, 167); */
+    --bgcolor: rgb(90, 234, 234);
+
 }
 
 #wrapper{
